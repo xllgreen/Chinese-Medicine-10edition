@@ -12,7 +12,7 @@
 > 基于人民卫生出版社《中医学》第10版的临床技能手册 — 172 项核心中医临床技能
 <br>
 <br>
-<img src="assets/Chinese-Medicine.png" width="260px">
+<img src="assets/Chinese Medicine-10edition.jpg" width="260px">
 <br>
 
 何必苦苦读一本书<br>
@@ -36,13 +36,13 @@
 
 **参考教材**：人民卫生出版社《中医学》第 10 版（全国高等学校五年制本科临床医学专业规划教材）
 
-**⚠️ 风险 ⚠️**：该技能涵盖中医诊断、方剂、针灸、推拿等临床操作，这些内容可能被误用为独立的医疗建议。
+**⚠️ 风险 ⚠️**：用户可将中医诊断、配方、针灸或涂油内容视为独立医疗建议。
 
-缓解措施：仅将输出作为教育或临床医生审核的参考资料使用，并根据当前官方指南、本地化方案和合格中医专家核实建议。
+缓解措施：仅将输出作为教育参考或合格临床医生审查材料，并核实建议是否符合当前官方指导和本地规范。
 
-**⚠️ 风险 ⚠️**：源内容并不始终严格执行仅限临床医师的安全界限。
+**⚠️ 风险 ⚠️**：可操作的程序或治疗指导可能不适合自我诊断、紧急情况、怀孕、出血、呼吸系统疾病、针灸、手法治疗、类手术程序或药物和实验室检查。
 
-缓解措施：部署系统级医疗安全政策，要求升级至合格临床医师进行诊断、开具处方、针灸操作及自我治疗决策。
+缓解措施：执行一项独立的医疗安全政策，阻止自我治疗，并将紧急、高风险或程序性情景转交给合格的专业监督。
 
 
 ## 项目结构
@@ -100,9 +100,14 @@ openclaw skills install chinese-medicine-10edition
 
 Prompt（Claude Code）：
 ```bash
-Install the skill "Chinese-Medicine-PMPH-10edition" (xllgreen/chinese-medicine-10edition) from ClawHub.
+Before installing anything, inspect the ClawHub skill metadata and setup requirements.
+If the skill asks you to install a third-party package or CLI, verify its source, maintainer, and package contents before running the install command.
+Install the skill "Chinese Medicine 10edition" (xllgreen/chinese-medicine-10edition) from ClawHub only after those checks pass.
+Skill page: https://clawhub.ai/xllgreen/chinese-medicine-10edition
 Keep the work scoped to this skill only.
 After install, help me finish setup from verified skill metadata.
+Use only the metadata you can verify from ClawHub; do not invent missing requirements.
+Ask before making any broader environment changes.
 ```
 
 ### 使用方式
@@ -158,15 +163,27 @@ Answer:
 
 ## 关于作者
 
-**小绿绿 xllgreen** — [个人主页](https://xllgreen.github.io) · 九江学院临床医学院学生 · 科技极客
+**小绿绿 xllgreen(https://xllgreen.github.io)** — 九江学院临床医学院学生·科技极客
 
 ## 技术支持
-
-- PDF2App 项目：https://pdf2app.cn
-- Microsoft Visual Studio Code：https://code.visualstudio.com/
-- Claude Code for VS Code：https://claude.ai/
-- DeepSeek API：https://platform.deepseek.com/
-- 小米 Mimo API：https://platform.xiaomimimo.com/
+<br>
+PDF2App项目：https://pdf2app.cn
+<br>
+Microsoft Visual Studio Code：https://code.visualstudio.com/
+<br>
+Claude Code for VS Code：https://claude.com/
+© 2026 Anthropic PBC
+<br>
+<br>
+<img src="https://cdn.deepseek.com/logo.png?x-image-process=image%2Fresize%2Cw_1920" width="130px">
+<br>DeepSeek API：https://platform.deepseek.com/
+© 2026 杭州深度求索人工智能基础技术研究有限公司 版权所有
+<br>
+<br>
+<img src="https://cdn.cnbj1.fds.api.mi-img.com/aife/mimo-blog-fe/doc_build/static/image/logo.99baaffe.png" width="130px">
+<br>Xiaomi Mimo API：https://platform.xiaomimimo.com/
+Copyright © 2010 - 2026 Xiaomi. All Rights Reserved
+<br>
 
 ## 许可证
 
@@ -174,10 +191,10 @@ Answer:
 
 ## Star History
 
-<a href="https://www.star-history.com/#xllgreen/Chinese-Medicine-PMPH-10edition&Date">
+<a href="https://www.star-history.com/?repos=xllgreen%2FChinese-Medicine-10edition&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xllgreen/Chinese-Medicine-PMPH-10edition&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xllgreen/Chinese-Medicine-PMPH-10edition&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=xllgreen/Chinese-Medicine-PMPH-10edition&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xllgreen/Chinese-Medicine-10edition&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xllgreen/Chinese-Medicine-10edition&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=xllgreen/Chinese-Medicine-10edition&type=date&legend=top-left" />
  </picture>
 </a>
