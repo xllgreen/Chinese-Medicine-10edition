@@ -12,7 +12,7 @@
 > 基于人民卫生出版社《中医学》第10版的临床技能手册 — 172 项核心中医临床技能
 <br>
 <br>
-<img src="assets/Chinese Medicine-10edition.jpg" width="260px">
+<img src="/assets/Chinese Medicine-10edition.jpg" width="260px">
 <br>
 
 何必苦苦读一本书<br>
