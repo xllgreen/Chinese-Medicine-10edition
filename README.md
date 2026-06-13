@@ -58,9 +58,6 @@ Chinese-Medicine-PMPH-10edition/
 ├── <skill-name>/               # 各项技能的详细定义
 │   └── SKILL.md                #   技能详情（使用时机、执行步骤、参考文档）
 ├── index.md                    # 技能导航索引
-├── scripts/                    # 可执行工具脚本
-├── config/                     # 配置文件
-├── tests/                      # 验证与测试
 └── assets/                     # 项目资源文件
 ```
 

@@ -1,69 +1,69 @@
 ---
 name: chinese-medicine-10edition
-description: 基于人民卫生出版社《中医学》第10版的172项核心中医临床技能知识库 / A knowledge base of 172 core TCM clinical skills based on the 10th edition of "Chinese Medicine" (PMPH)
+description: A knowledge base of 172 core TCM clinical skills based on the 10th edition of "Chinese Medicine" (People's Medical Publishing House), covering basic theory, pattern differentiation, herbal formulas, acupuncture, tuina, gynecology, pediatrics, oncology, and integrative medicine.
 version: 1.0.0
 metadata:
   openclaw:
-    emoji: "🏥"
-    skills: 172
-    categories: 18
+    emoji: "\uD83C\uDFE5"
     homepage: https://clawhub.ai/xllgreen/chinese-medicine-10edition
     primaryEnv: NONE
     requires:
       env: []
       bins: []
+    always: false
+    skillKey: tcm
 ---
 
-# 中医临床技能知识库（第10版）
+# Chinese Medicine Clinical Skill Knowledge Base (10th Edition)
 
-本技能集合源自人民卫生出版社《中医学》第10版教材内容，系统整合了 **172 项核心中医临床技能**，涵盖中医基础理论、辨证论治、方药应用、针灸推拿、妇科儿科、温病伤寒、肿瘤调治、体质辨识及中西医结合等多个关键领域。
+This skill collection is derived from the 10th edition of *Chinese Medicine* (People's Medical Publishing House), systematically integrating **172 core TCM clinical skills** across foundational theory, pattern differentiation, formula application, acupuncture & moxibustion, tuina, gynecology & pediatrics, warm disease & cold damage, oncology, constitutional identification, and integrative medicine.
 
-## 技能分类一览
+## Skill Category Overview
 
-| 分类 | 技能数 | 说明 |
-|------|--------|------|
-| 🧬 中医基础理论 | 18 | 阴阳五行、脏腑经络、气血津液、体质 |
-| 🔍 辨证论治通则 | 8 | 辨证核心原则、治则治法 |
-| 🫀 脏腑经络与生理病理 | 13 | 心、肝、脾、肺、肾、经络功能与病理 |
-| 🔬 诊法与四诊合参 | 6 | 舌诊、脉诊、望诊、小儿指纹 |
-| 🌡️ 外感病证辨治 | 10 | 六淫、温病、伤寒辨证 |
-| 🩺 内科杂病辨治 | 14 | 便秘、痔疮、眩晕、失眠、泄泻、痹证等 |
-| 👩 妇科病证辨治 | 9 | 月经不调、带下、崩漏、产后缺乳 |
-| 🚽 泌尿与淋证 | 3 | 淋证六型辨证、血淋尿血 |
-| 💧 消渴与水肿 | 2 | 三消辨证、阳水阴水 |
-| 🟡 黄疸与积聚 | 2 | 阳黄阴黄、聚星障 |
-| 🩸 瘀血与出血证 | 3 | 血瘀证、血府逐瘀 |
-| 💊 方剂学与药物应用 | 26 | 经方应用、中药配伍、毒性管理 |
-| 📍 针灸疗法 | 8 | 毫针、灸法、耳穴、腧穴 |
-| ✋ 推拿手法 | 5 | 八法、扳法、拍法、补泻 |
-| 🫳 外治法与其他疗法 | 3 | 拔罐、金黄散、中药外治 |
-| 🤝 中西医结合与现代应用 | 7 | 中西医协同、糖尿病前期干预 |
-| 📚 经典文献与学术源流 | 4 | 四大经典、《新修本草》、葛洪 |
-| 🎗️ 肿瘤与疑难重症 | 5 | 肿瘤辨证、扶正祛邪、癌性腹水 |
-| 👶 儿科专病 | 1 | 性早熟 |
-| ⚙️ 治法分类 | 4 | 下法、解表剂、温里剂、通降原则 |
+| Category | Count | Description |
+|----------|-------|-------------|
+| TCM Basic Theory | 18 | Yin-yang, five elements, zang-fu, meridians, qi-blood-body fluids, constitution |
+| Pattern Differentiation Principles | 8 | Core differentiation principles, treatment rules |
+| Zang-Fu, Meridians, Physiology & Pathology | 13 | Heart, liver, spleen, lung, kidney meridian functions & pathology |
+| Diagnostic Methods & Four Examinations | 6 | Tongue, pulse, inspection, pediatric fingerprint |
+| Externally-Contracted Disease Differentiation | 10 | Six excesses, warm disease, cold damage |
+| Internal Medicine Miscellaneous Diseases | 14 | Constipation, hemorrhoids, vertigo, insomnia, diarrhea, bi syndrome |
+| Gynecology Diseases | 9 | Menstrual disorders, leukorrhea, metrorrhagia, postpartum hypogalactia |
+| Urinary & Lin Syndrome | 3 | Six-type lin syndrome, hematuria |
+| Wasting-Thirst & Edema | 2 | Three consumptions, yang/yin edema |
+| Jaundice & Masses | 2 | Yang/yin jaundice, herpetic keratitis |
+| Blood Stasis & Hemorrhage | 3 | Blood stasis syndrome, Xue Fu Zhu Yu Tang |
+| Formulas & Herbal Application | 26 | Classical formulas, herb compatibility, toxicity management |
+| Acupuncture & Moxibustion | 8 | Filiform needle, moxibustion, auricular, acupoints |
+| Tuina Manipulation | 5 | Eight methods, pulling, tapping, reinforcing-reducing |
+| External Therapies | 3 | Cupping, Jin Huang San, external herbal therapy |
+| Integrative Medicine & Modern Application | 7 | Integrative oncology, pre-diabetes intervention |
+| Classics & Academic Origins | 4 | Four classics, Xin Xiu Ben Cao, Ge Hong |
+| Oncology & Critical Diseases | 5 | Tumor differentiation, fu-zheng-qu-xie, cancerous ascites |
+| Pediatrics | 1 | Precocious puberty |
+| Treatment Methods | 4 | Purgation, exterior-releasing, interior-warming, six-fu unblocking |
 
-## 快速开始
+## Quick Start
 
-### 安装
+### Installation
 
 ```bash
 openclaw skills install chinese-medicine-10edition
 ```
 
-### 使用方式
+### Usage
 
-每个技能包含四部分内容：
-1. **使用时机** — 何时触发该技能
-2. **执行步骤** — 标准化操作流程
-3. **注意事项** — 禁忌与警示
-4. **参考文档** — 详细补充资料
+Each skill contains four sections:
+1. **When to Use** - Trigger conditions for the skill
+2. **Execution Steps** - Standardized operational workflow
+3. **Precautions** - Contraindications and warnings
+4. **Reference Documentation** - Supplementary reference materials
 
-## 风险提示
+## Risk Notice
 
-⚠️ **风险**：该技能涵盖中医诊断、方剂、针灸、推拿等临床操作，可能被误用为独立的医疗建议。
-缓解措施：仅将输出作为教育或临床医生审核的参考资料使用，并根据当前官方指南和合格中医专家核实建议。
+⚠️ **Warning**: This skill covers TCM diagnosis, formulas, acupuncture, tuina and other clinical procedures that may be misused as independent medical advice.
+**Mitigation**: Use outputs only as educational references or materials for clinical physician review. Verify recommendations against current official guidelines and qualified TCM practitioners.
 
-## 许可证
+## License
 
 MIT-0

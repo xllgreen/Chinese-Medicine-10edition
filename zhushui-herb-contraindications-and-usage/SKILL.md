@@ -1,17 +1,18 @@
----
-name: 逐水药使用禁忌与注意事项
+﻿---
+name: Zhushui Herb Contraindications and Usage
 description: 当用户咨询关于逐水药（如甘遂等）在水肿膨胀或胸胁停饮患者中的使用时，提供明确的适应症判断、禁忌人群排除、剂量控制、减毒处理、配伍禁忌及用药原则。仅在患者正气未衰、无禁忌证且需短期治疗时触发本技能。
+tags: [contraindications, herb, herbal, tcm, usage, zhushui]
 ---
 
-# 逐水药使用禁忌与注意事项
+# Zhushui Herb Contraindications and Usage
 
-## 何时使用本技能
+## When to Use
 当涉及以下情况时启用：
 - 患者诊断为「水肿膨胀」或「胸胁停饮」
 - 需评估是否适合使用逐水药（如甘遂、大戟、芫花等）
 - 用户询问逐水药的安全用法、禁忌或中毒风险
 
-## 执行步骤
+## Execution Steps
 
 1. **确认适应症**：仅适用于体内实水积聚所致的水肿、膨胀或胸胁停饮，且患者正气未衰（表现为精神尚可、脉象有力、无明显虚损症状）。
 

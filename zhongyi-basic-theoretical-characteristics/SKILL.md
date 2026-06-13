@@ -1,11 +1,12 @@
----
-name: 中医学理论体系的基本特点
+﻿---
+name: Zhongyi Basic Theoretical Characteristics
 description: 阐述中医学三大基本特点——整体观念、恒动观念与辨证论治的核心内涵及其在中医诊断、治疗、养生和疾病预防中的应用逻辑。当用户需要理解或应用中医思维模式进行诊疗分析、制定干预方案或解释中医原理时，应触发本技能。
+tags: [basic, characteristics, fundamental, tcm, tcm-theory, theoretical, zhongyi]
 ---
 
-# 中医学理论体系的基本特点
+# Zhongyi Basic Theoretical Characteristics
 
-## 何时使用
+## When to Use
 - 分析中医诊疗思路或解释中医为何强调“四诊合参”
 - 制定个体化中医治疗或养生方案
 - 对比中西医思维差异
@@ -14,7 +15,7 @@ description: 阐述中医学三大基本特点——整体观念、恒动观念�
 
 > **注意**：本技能不适用于急症抢救场景（需结合现代医学），也不适用于基于机械还原论的生物医学模型分析。
 
-## 如何执行
+## Execution Steps
 
 ### 1. 应用整体观念
 - 将人体视为五脏六腑、形体官窍通过经络气血相互联系的有机整体。
