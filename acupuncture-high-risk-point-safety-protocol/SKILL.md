@@ -1,17 +1,18 @@
----
-name: 高风险腧穴针刺安全操作规范
+﻿---
+name: Acupuncture High-Risk Point Safety Protocol
 description: 当针刺涉及颈部、胸部、腹部近脏器区域或孕妇时，执行本技能以确保对风池(GB20)、肩井(GB21)、期门(LR14)、天突(CV22)、长强(GV1)、章门(LR13)等高风险穴位的安全操作。本技能提供每个穴位的限定进针方向、最大深度及绝对禁忌，防止损伤椎动脉、延髓、肺脏、气管、直肠或肝脾等重要结构。
+tags: [acupuncture, high, point, protocol, risk, safety, tcm]
 ---
 
-# 高风险腧穴针刺安全操作规范
+# Acupuncture High-Risk Point Safety Protocol
 
-## 触发条件
+## When to Use
 当以下任一情况成立时，必须启用本技能：
 - 针刺部位位于颈部、胸部或上腹部
 - 患者为孕妇
 - 腧穴邻近重要血管、神经或内脏器官
 
-## 执行流程
+## Execution Steps
 
 ### 1. 风池穴 (GB20)
 - **操作**：针尖微向下，朝鼻尖方向直刺 0.8～1.2 寸，或平透刺向风府穴。

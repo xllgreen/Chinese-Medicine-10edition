@@ -1,14 +1,15 @@
----
-name: 月经后期的辨证分型与治疗
+﻿---
+name: Delayed Menstruation Syndrome Differentiation
 description: 针对连续两个周期以上月经延后7天以上的患者，排除生理性延迟后，根据经量、经色、经质及伴随症状，辨识肾虚、血虚、血寒（虚/实）、气滞或痰湿证型，并实施相应调经治疗。适用于病理性月经后期且伴有明确证候者。
+tags: [bian-zheng, delayed, differentiation, gynecology, menstruation, syndrome, syndrome-differentiation, tcm]
 ---
 
-# 月经后期的辨证分型与治疗
+# Delayed Menstruation Syndrome Differentiation
 
-## 触发条件
+## When to Use
 患者月经周期连续2次以上延后7天以上，排除青春期初潮1年内及围绝经期生理性延迟，且存在明确证候表现。
 
-## 辨证步骤
+## Execution Steps
 
 ### 第一步：确认诊断标准
 - 周期延后≥7天，连续≥2周期。
@@ -26,6 +27,6 @@ description: 针对连续两个周期以上月经延后7天以上的患者，排
 - 总则：“虚者补之，实者泻之，寒者温之，滞者行之，痰者化之”，重在调理冲任、疏通胞脉。
 - 若伴经量过少，评估闭经风险，制定早期干预方案。
 
-## 注意事项
+## Precautions
 - 仅延后3–5天或偶然一次不作病论。
 - 无其他证候的周期波动不适用本技能。

@@ -1,17 +1,18 @@
----
-name: 痔病四大证型辨治
+﻿---
+name: Hemorrhoids Four Syndrome Treatment
 description: 根据痔病患者的便血性质、脱出特点、疼痛及全身状况，辨识风伤肠络、湿热下注、气滞血瘀或脾虚气陷证型，并匹配相应治法与方剂。当患者出现便血、脱垂或肛门疼痛时使用本技能。
+tags: [bian-zheng, four, hemorrhoid, hemorrhoids, syndrome, syndrome-differentiation, tcm, treatment, zhi]
 ---
 
-# 痔病四大证型辨治
+# Hemorrhoids Four Syndrome Treatment
 
-## 适用场景
+## When to Use
 - 便血鲜红、喷射状（风伤肠络）
 - 肛门红肿热痛、滋水（湿热下注）
 - 肿物紫暗硬结、剧痛（气滞血瘀）
 - 痔核脱出难回、便血色淡（脾虚气陷）
 
-## 执行步骤
+## Execution Steps
 1. **辨证分型**：
    - 风伤肠络：便血鲜红暴急，舌红苔黄 → 凉血地黄汤合槐花散；
    - 湿热下注：红肿热痛、便血量多 → 脏连丸加减；

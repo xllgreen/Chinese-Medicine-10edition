@@ -1,16 +1,17 @@
----
-name: 癌性腹水的中医辨证分型与治法
+﻿---
+name: Cancerous Ascites TCM Syndrome Differentiation
 description: 针对晚期恶性肿瘤（如卵巢癌、胰腺癌、恶性淋巴瘤）患者出现渗出性血性腹水时，进行中医证型辨识并提供对应治法与方药。仅适用于已确诊为恶性肿瘤晚期且腹水性质明确为渗出性或血性的患者；非癌性腹水（如肝硬化、心衰所致）或腹水性质未明者禁用。
+tags: [ascites, bian-zheng, cancerous, differentiation, oncology, syndrome, syndrome-differentiation, tcm, tumor]
 ---
 
-# 癌性腹水的中医辨证分型与治法
+# Cancerous Ascites TCM Syndrome Differentiation
 
-## 适用条件
+## When to Use
 - 患者已确诊为晚期恶性肿瘤（如晚期卵巢癌、晚期胰腺癌、恶性淋巴瘤等）
 - 腹水经检查确认为渗出性或血性
 - 排除非癌性腹水（如肝硬化、心力衰竭等所致）
 
-## 辨证与治法流程
+## Execution Steps
 
 ### 1. 实证
 **主症**：腹胀急、拒按、小便短赤、舌红苔黄腻、脉弦滑数。  
@@ -27,7 +28,7 @@ description: 针对晚期恶性肿瘤（如卵巢癌、胰腺癌、恶性淋巴�
 **治法**：滋养肝肾，利水散结。  
 **推荐方剂**：六味地黄丸加减。
 
-## 注意事项
+## Precautions
 - 所有治法必须结合“抗癌解毒”原则，不可单纯利水而忽视扶正祛邪。
 - 必须在明确腹水性质及肿瘤分期后方可应用本辨证体系。
 - 若证候复杂或兼夹，应由中医肿瘤专科医师综合判断。

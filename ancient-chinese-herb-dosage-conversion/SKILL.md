@@ -1,19 +1,20 @@
----
-name: 古今中药剂量折算规则
+﻿---
+name: Ancient Chinese Herb Dosage Conversion
 description: 本技能用于将古籍方剂中的剂量单位（如“两”“升”）按历史朝代折算为现代公制单位（克或毫升）。当用户提供古代方剂出处并需将其剂量用于现代临床参考时触发。
+tags: [ancient, chinese, conversion, dosage, herb, herbal, tcm]
 ---
 
-# 古今中药剂量折算规则
+# Ancient Chinese Herb Dosage Conversion
 
-## 使用前提
+## When to Use
 - 方剂有明确历史出处（如《伤寒论》属东汉，《温病条辨》属清代）
 - 需用于现代临床剂量参考
 
-## 禁忌条件
+## Precautions
 - 不适用于无明确历史出处的现代自拟方
 - 不适用于非中药体系
 
-## 执行步骤
+## Execution Steps
 1. **确定历史时期**：
    - 如汉代、隋唐、宋金元、明清等
 

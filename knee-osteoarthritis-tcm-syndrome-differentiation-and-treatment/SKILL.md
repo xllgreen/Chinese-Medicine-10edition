@@ -1,19 +1,20 @@
----
-name: 膝骨关节炎中医辨证治疗
+﻿---
+name: Knee Osteoarthritis TCM Syndrome Differentiation and Treatment
 description: 针对膝痹患者（即现代医学膝骨关节炎）出现膝关节疼痛、屈伸不利、肿胀或变形等症状时，依据“本虚标实”病机进行中医辨证分型并制定内服、外治与运动相结合的综合干预方案。当患者表现为腰膝酸软、红肿热痛等肝肾亏虚或邪实痹阻征象，且已排除急性感染或肿瘤时，应启动本技能。
+tags: [bian-zheng, differentiation, knee, knee-osteoarthritis, osteoarthritis, syndrome, syndrome-differentiation, tcm, treatment, xi-bi]
 ---
 
-# 膝骨关节炎中医辨证治疗
+# Knee Osteoarthritis TCM Syndrome Differentiation and Treatment
 
-## 适用对象
+## When to Use
 - 膝痹患者
 - 膝关节退行性病变者
 
-## 启动条件
+## When to Use
 - 存在膝关节疼痛、屈伸不利、肿胀或变形
 - 已排除急性感染或肿瘤
 
-## 操作流程
+## Execution Steps
 
 ### 1. 辨识病机总纲
 确认“本虚标实”核心病机：

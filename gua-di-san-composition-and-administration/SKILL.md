@@ -1,11 +1,12 @@
----
-name: 瓜蒂散的组成与用法
+﻿---
+name: Gua Di San Composition and Administration
 description: 当患者出现胸脘痞硬、懊憹不安、欲吐不出、气上冲咽喉不得息且寸脉微浮时，使用本技能指导瓜蒂散的药物组成、制备方法、服用步骤及催吐调整。适用于痰涎宿食壅滞胸脘证，禁用于非实邪壅滞者及体虚、孕妇、失血者。
+tags: [administration, composition, gua, san, tcm]
 ---
 
-# 瓜蒂散的组成与用法
+# Gua Di San Composition and Administration
 
-## 适用条件
+## When to Use
 仅在以下全部症状同时出现时考虑使用：
 - 胸脘痞硬
 - 懊憹不安
@@ -13,11 +14,11 @@ description: 当患者出现胸脘痞硬、懊憹不安、欲吐不出、气上�
 - 气上冲咽喉不得息
 - 寸脉微浮
 
-## 禁忌与慎用
+## Precautions
 - **禁用**：非痰食实邪壅滞者
 - **慎用**：体虚者、孕妇、失血者
 
-## 执行步骤
+## Execution Steps
 
 1. **药物组成**
    - 瓜蒂（熬黄）一分（君药，苦寒，涌吐痰涎宿食）

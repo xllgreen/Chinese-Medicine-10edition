@@ -1,16 +1,17 @@
----
-name: 六淫致病条件分析
+﻿---
+name: Liu Yin Pathogenic Condition Analysis
 description: 判断风、寒、暑、湿、燥、火六种自然气候因素是否转化为致病的“六淫”，需结合气候变化异常程度（如太过、不及、非其时而有其气、变化急骤）与人体正气状态。当用户需要分析外感病病因或判断某气候因素是否构成六淫时使用本技能。
+tags: [analysis, condition, liu, liu-jing, pathogenic, six-meridian, tcm, yin]
 ---
 
-# 六淫致病条件分析
+# Liu Yin Pathogenic Condition Analysis
 
-## 何时使用
+## When to Use
 - 用户描述气候异常（如夏季过热、春季反寒、骤冷暴热等）并询问是否致病；
 - 用户提及“外感病”并希望追溯病因是否为六淫；
 - 需评估人体正气不足是否导致正常气候变为致病因素。
 
-## 执行步骤
+## Execution Steps
 1. **识别六气类型**：确认涉及的是风、寒、暑、湿、燥、火中的哪一种或几种。
 2. **判断气候是否异常**：检查是否存在以下任一情况：
    - 六气“太过”或“不及”；

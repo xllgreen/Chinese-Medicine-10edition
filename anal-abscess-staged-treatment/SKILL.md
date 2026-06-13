@@ -1,16 +1,17 @@
----
-name: 肛痈的分期辨证论治
+﻿---
+name: Anal Abscess Staged Treatment
 description: 根据肛痈病程阶段（初期、成脓期、溃脓期）及证型（火毒蕴结、阴虚毒恋等），制定分期分型治疗方案并指导外科处理。当患者出现肛周红肿热痛、伴或不伴发热时使用本技能。
+tags: [abscess, anal, staged, tcm, treatment]
 ---
 
-# 肛痈的分期辨证论治
+# Anal Abscess Staged Treatment
 
-## 适用场景
+## When to Use
 - 肛门突发肿痛、红肿灼热（初期）
 - 肿痛加剧、按之有波动感（成脓期）
 - 已破溃流脓、疮口难敛（溃脓期）
 
-## 执行步骤
+## Execution Steps
 1. **判断病程阶段**：
    - 初期：质硬无波动，属实证；
    - 成脓期：痛如鸡啄，有波动感；

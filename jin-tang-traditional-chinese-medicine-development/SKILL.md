@@ -1,18 +1,19 @@
----
-name: 分析两晋隋唐时期中医学理论与学科发展特征
+﻿---
+name: Jin Tang Traditional Chinese Medicine Development
 description: 当用户需要分析公元265–960年（两晋至隋唐五代）中医学的发展阶段、理论体系构建、专科分化、代表性医籍或药物学成就时，使用本技能。适用于中医学史研究、医学文献解读及专科医学溯源场景。
+tags: [chinese, development, jin, medicine, tang, tcm, traditional]
 ---
 
-# 分析两晋隋唐时期中医学理论与学科发展特征
+# Jin Tang Traditional Chinese Medicine Development
 
-## 触发条件
+## When to Use
 当任务涉及以下任一情形时启用本技能：
 - 分析中医学在两晋至隋唐五代（约265–960年）的发展特征；
 - 解读该时期代表性医学著作的学术价值；
 - 梳理中医专科（如针灸、外科、妇科等）的早期形成过程；
 - 考察该阶段药物学、诊断学或临床技术的重大突破。
 
-## 执行步骤
+## Execution Steps
 
 1. **确认时间范围与历史背景**
    - 验证所涉内容是否严格限定于两晋、南北朝、隋至唐末五代（265–960年）；

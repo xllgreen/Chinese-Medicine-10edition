@@ -1,14 +1,15 @@
----
-name: 月经先期的辨证分型与治疗
+﻿---
+name: Early Menstruation Syndrome Differentiation
 description: 针对连续两个周期以上月经提前7天以上的患者，依据经量、经色、经质及全身证候，辨识脾气虚、肾气虚、阴虚血热、阳盛血热或肝郁血热证型，并给予相应调经治疗。适用于排除青春期初潮1年内及围绝经期生理性波动后的病理性月经先期。
+tags: [bian-zheng, differentiation, early, gynecology, menstruation, syndrome, syndrome-differentiation, tcm]
 ---
 
-# 月经先期的辨证分型与治疗
+# Early Menstruation Syndrome Differentiation
 
-## 触发条件
+## When to Use
 患者月经周期连续2次以上提前7天以上，且具备完整的经量、经色、经质及全身证候信息，排除生理性波动。
 
-## 辨证步骤
+## Execution Steps
 
 ### 第一步：观察月经特征
 - **经量多、色淡、质稀** → 属气虚
@@ -30,6 +31,6 @@ description: 针对连续两个周期以上月经提前7天以上的患者，依
 - 核心原则：“益气固冲，清热调经”。
 - 监测是否合并月经过多或崩漏风险，必要时升级干预。
 
-## 注意事项
+## Precautions
 - 偶发性周期提前不适用本技能。
 - 青春期初潮1年内或围绝经期生理性波动不纳入辨证范围。

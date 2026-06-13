@@ -1,15 +1,16 @@
----
-name: 督脉与任脉循行路径及主治概要
+﻿---
+name: Du Ren Mai Circulation and Indications
 description: 根据患者出现的神志病、热病、腰背头项局部病症或胸腹头面局部病证（如疝气、带下等），判断是否应选用督脉或任脉相关腧穴进行针灸或按摩治疗。适用于中医经络理论框架下的辨证选穴场景。
+tags: [circulation, indications, mai, ren, tcm]
 ---
 
-# 督脉与任脉循行路径及主治概要
+# Du Ren Mai Circulation and Indications
 
-## 触发条件
+## When to Use
 - 若患者出现神志病、热病或腰背、头项局部病症，则考虑督脉相关腧穴；
 - 若患者出现胸、腹、头面局部病证（如疝气、带下、腹中结块等），则考虑任脉相关腧穴。
 
-## 执行步骤
+## Execution Steps
 
 ### 1. 确认督脉循行路径
 - 起于少腹以下骨中央（女性入系廷孔，即尿道外口；男性沿阴茎下行至篡）；

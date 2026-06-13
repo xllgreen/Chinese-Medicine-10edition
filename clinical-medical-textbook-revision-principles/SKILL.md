@@ -1,9 +1,10 @@
----
-name: 第十轮临床医学教材修订五大核心原则
+﻿---
+name: Clinical Medical Textbook Revision Principles
 description: 当参与全国高等学校五年制本科临床医学专业国家级规划教材的编写或修订工作时，必须遵循本技能所列的五大核心原则。适用于医学教育政策制定者、教材编者及相关部门，在落实教育部与国家卫健委指导文件和党的二十大精神背景下使用。
+tags: [clinical, medical, principles, revision, tcm, textbook]
 ---
 
-# 第十轮临床医学教材修订五大核心原则
+# Clinical Medical Textbook Revision Principles
 
 在进行国家级临床医学本科教材编写或修订时，严格执行以下五个核心原则：
 

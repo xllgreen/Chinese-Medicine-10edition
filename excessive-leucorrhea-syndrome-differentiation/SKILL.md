@@ -1,14 +1,15 @@
----
-name: 带下过多的辨证分型与治疗
+﻿---
+name: Excessive Leucorrhea Syndrome Differentiation
 description: 针对带下量明显增多且色、质、气味异常的女性患者，在排除生理性带下及恶性肿瘤后，依据带下四要素（色、质、气味、量）及全身症状，辨识脾虚、肾阳虚、阴虚夹湿、湿热下注或湿毒蕴结证型，并给予相应治疗。适用于病理性带下过多。
+tags: [bian-zheng, differentiation, excessive, gynecology, leucorrhea, syndrome, syndrome-differentiation, tcm]
 ---
 
-# 带下过多的辨证分型与治疗
+# Excessive Leucorrhea Syndrome Differentiation
 
-## 触发条件
+## When to Use
 患者带下量明显增多，且色、质、气味异常，或伴局部及全身症状，已排除排卵期、妊娠期等生理性带下及阴道、宫颈恶性肿瘤。
 
-## 辨证步骤
+## Execution Steps
 
 ### 第一步：确认核心病机
 任脉损伤，带脉失约，湿邪为患。
@@ -26,6 +27,6 @@ description: 针对带下量明显增多且色、质、气味异常的女性患�
 - 湿热热毒：宜清、宜利
 - 阴虚夹湿：补清兼施
 
-## 注意事项
+## Precautions
 - 避免过用苦寒或温燥药物，以防伤正。
 - 不适用于带下过少患者。

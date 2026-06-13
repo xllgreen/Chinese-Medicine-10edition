@@ -1,17 +1,18 @@
----
-name: 肝肾同源三大互用机制
+﻿---
+name: Gan Shen Tong Yuan Mechanisms
 description: 运用精血同源、藏泄互用、阴阳互资三大机制分析肝与肾的协同关系。当患者出现头晕目眩、耳鸣、月经紊乱、遗精滑泄、腰膝酸软等肝肾共现症状时使用本技能评估肝肾精血、功能与阴阳状态。
+tags: [gan, kidney, mechanisms, shen, tcm, tong, yuan, zang-fu]
 ---
 
-# 肝肾同源三大互用机制
+# Gan Shen Tong Yuan Mechanisms
 
-## 适用场景
+## When to Use
 - 辨证肝肾精血两亏证
 - 分析月经失调或生殖功能异常的病机
 - 判断“水不涵木”型肝阳上亢
 - 指导滋补肝肾、调和藏泄的治疗策略
 
-## 执行步骤
+## Execution Steps
 
 1. **评估精血同源机制**：
    - 肾精可化生肝血，肝血充盛则肾有所藏

@@ -1,17 +1,18 @@
----
-name: 便秘的辨证分型与治法
+﻿---
+name: Constipation Syndrome Differentiation
 description: 根据便秘患者的虚实寒热属性及兼夹证候，进行证型分类并匹配相应治法与方剂。当患者主诉排便困难或大便不通时使用本技能。
+tags: [bian-mi, bian-zheng, constipation, differentiation, syndrome, syndrome-differentiation, tcm]
 ---
 
-# 便秘的辨证分型与治法
+# Constipation Syndrome Differentiation
 
-## 适用场景
+## When to Use
 - 新发便秘伴口干、尿黄（热结）
 - 老年便秘伴乏力、气短（气虚）
 - 产后便秘伴面色萎黄（血虚）
 - 久病便秘伴畏寒、腰冷（阳虚）
 
-## 执行步骤
+## Execution Steps
 1. **辨别虚实**：
    - 实秘：热结、气滞、寒凝；
    - 虚秘：气虚、血虚、阴虚、阳虚。

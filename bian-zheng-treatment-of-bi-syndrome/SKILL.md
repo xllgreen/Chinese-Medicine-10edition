@@ -1,18 +1,19 @@
----
-name: 痹证辨证分型与治疗
+﻿---
+name: Bian Zheng Treatment of Bi Syndrome
 description: 对表现为肢体关节肌肉疼痛、麻木、重着、屈伸不利等症状的患者进行中医辨证分型，并据此确定治法与方药。当用户描述符合痹证核心症状（如游走性疼痛、固定冷痛、重着酸楚或红肿热痛）并提供舌脉信息时，应启用本技能。
+tags: [bi-syndrome, bi-zheng, bian, bian-zheng, syndrome, syndrome-differentiation, tcm, treatment, zheng]
 ---
 
-# 痹证辨证分型与治疗
+# Bian Zheng Treatment of Bi Syndrome
 
-## 适用对象
+## When to Use
 - 痹证患者
 - 关节肌肉疼痛类疾病（排除急性感染性关节炎及非痹证类疼痛）
 
-## 启动条件
+## When to Use
 IF 患者表现为肢体关节肌肉疼痛、麻木、重着、屈伸不利等症状 THEN 启动本流程。
 
-## 执行步骤
+## Execution Steps
 
 ### 1. 辨邪气偏盛类型
 - **行痹（风邪胜）**：疼痛游走不定，舌苔薄白，脉浮。
@@ -40,7 +41,7 @@ IF 患者表现为肢体关节肌肉疼痛、麻木、重着、屈伸不利等�
 ### 5. 辅助疗法建议
 可结合膏药外敷、针灸、推拿、拔罐、药物熏洗等外治法增强疗效。
 
-## 输出要求
+## Output
 明确输出：
 - 具体证型（如行痹、痛痹等）
 - 治法原则

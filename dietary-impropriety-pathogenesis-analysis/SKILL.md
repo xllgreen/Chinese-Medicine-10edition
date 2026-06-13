@@ -1,11 +1,12 @@
----
-name: 饮食失宜致病机制分析
+﻿---
+name: Dietary Impropriety Pathogenesis Analysis
 description: 分析饮食不节、饮食不洁或饮食偏嗜三类饮食失宜行为如何损伤脾胃、导致气血失调及具体病理表现；当用户描述存在无规律进食、食用不洁食物或长期偏嗜某类食物等情况时，使用本技能评估其致病风险与潜在证候。
+tags: [analysis, diet, dietary, impropriety, nutrition, pathogenesis, tcm]
 ---
 
-# 饮食失宜致病机制分析
+# Dietary Impropriety Pathogenesis Analysis
 
-## 何时使用
+## When to Use
 当出现以下任一情况时启用本技能：
 - 用户提及饮食无规律（如过饥、过饱、不定时进食）
 - 用户报告食用不洁、变质或有毒食物
@@ -14,7 +15,7 @@ description: 分析饮食不节、饮食不洁或饮食偏嗜三类饮食失宜�
 
 > **注意**：本技能不适用于完全禁食、肠外营养等非经口摄入情形。
 
-## 执行步骤
+## Execution Steps
 
 ### 1. 判断饮食失宜类型
 根据用户描述，归类为以下三类之一：

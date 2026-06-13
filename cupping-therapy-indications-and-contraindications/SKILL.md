@@ -1,16 +1,17 @@
----
-name: 拔罐疗法适应证与禁忌证判断
+﻿---
+name: Cupping Therapy Indications and Contraindications
 description: 本技能用于判断患者是否适合接受拔罐疗法，适用于肩背痛、腰腿痛、胃痛、咳嗽或痈疽初起等适应证患者。当患者明确诊断、无任何禁忌证（如急性重症、出血性疾病、皮肤病变、精神障碍等）时方可使用。
+tags: [ba-guan, contraindications, cupping, indications, tcm, therapy]
 ---
 
-# 拔罐疗法适应证与禁忌证判断
+# Cupping Therapy Indications and Contraindications
 
-## 何时使用
+## When to Use
 - 患者表现为风寒湿痹、颈肩腰腿疼痛、感冒咳嗽或面瘫等适应证
 - 已排除所有禁忌证
 - 需选择合适的拔罐类型（留罐、走罐、闪罐或刺络拔罐）
 
-## 如何执行
+## Execution Steps
 1. **确认适应证对应方案**：
    - 肩背痛、腰腿痛 → 留罐或多罐
    - 胃痛 → 单罐拔中脘穴

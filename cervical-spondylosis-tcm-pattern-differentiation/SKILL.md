@@ -1,16 +1,17 @@
----
-name: 颈椎病的中医辨证分型与治法
+﻿---
+name: Cervical Spondylosis TCM Pattern Differentiation
 description: 根据患者颈肩疼痛、麻木、活动受限等症状及中医四诊信息，对颈椎病（项痹）进行五种常见证型的辨识，并提供对应的内服方药、外治方法及“治未病”策略。在患者已排除脊髓压迫等手术指征且符合中医证候特征时使用本技能。
+tags: [bian-zheng, cervical, cervical-spondylosis, differentiation, pattern, spondylosis, syndrome-differentiation, tcm, xiang-bi]
 ---
 
-# 颈椎病的中医辨证分型与治法
+# Cervical Spondylosis TCM Pattern Differentiation
 
-## 适用条件
+## When to Use
 - 患者出现颈项僵硬、上肢麻木、眩晕等症状
 - 已排除脊髓型颈椎病、骨质破坏或椎管占位等禁忌证
 - 符合中医“项痹”证候特征
 
-## 辨证与治疗流程
+## Execution Steps
 
 ### 1. 辨证原则
 - 首辨虚实，次辨兼证

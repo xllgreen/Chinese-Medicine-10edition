@@ -1,16 +1,17 @@
----
-name: 附子毒性管理与安全煎煮
+﻿---
+name: Fu Zi Toxicity Management and Safe Decoction
 description: 当用户计划在中药煎剂中使用附子或含乌头碱类中药（如黑顺片、白附片）时，执行本技能以确保安全。适用于回阳救逆方剂配制场景，必须在煎煮前确认炮制状态、禁忌人群及配伍禁忌，并通过规范先煎流程消除毒性。
+tags: [decoction, herbal, management, safe, tcm, toxicity]
 ---
 
-# 附子毒性管理与安全煎煮
+# Fu Zi Toxicity Management and Safe Decoction
 
-## 何时使用
+## When to Use
 - 处方中含有附子、黑顺片、白附片等含乌头碱类中药
 - 配伍用于里寒证、亡阳证的回阳救逆方剂
 - 用户询问附子煎煮方法、毒性控制或中毒预防措施
 
-## 执行步骤
+## Execution Steps
 
 ### 1. 确认适用前提
 - 仅限经规范炮制的附子（如黑顺片、白附片）；盐附子不可直接入药
