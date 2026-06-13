@@ -1,14 +1,15 @@
----
-name: 清热药分类与使用禁忌
+﻿---
+name: Qing Re Herb Classification and Contraindications
 description: 本技能用于根据患者热证类型（如实热、湿热、热毒、虚热等）选择对应的清热药类别，并评估脾胃虚寒、便溏或阴液亏虚等禁忌情况以决定是否慎用或禁用。当用户需辨识热证类型并匹配清热药类别，或判断患者体质是否适合使用清热药时触发。
+tags: [classification, contraindications, herb, herbal, qing, tcm]
 ---
 
-# 清热药分类与使用禁忌
+# Qing Re Herb Classification and Contraindications
 
-## 使用前提
+## When to Use
 - 患者存在里热证候，如高热、口渴、痈肿、痢疾、骨蒸潮热等。
 
-## 执行步骤
+## Execution Steps
 1. **辨识热证类型**：
    - 气分实热（高热、汗出、脉洪大）→ 选用清热泻火药
    - 热毒痈疮、瘟毒发斑 → 选用清热解毒药

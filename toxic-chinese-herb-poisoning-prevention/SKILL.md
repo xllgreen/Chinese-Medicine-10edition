@@ -1,6 +1,7 @@
 ---
 name: Toxic Chinese Herb Poisoning Prevention
 description: Identify causes of poisoning from toxic Chinese herbs (e.g., Fu Zi, Ma Qian Zi, Zhu Sha) and implement targeted prevention measures. Use this skill when prescribing, administering, or monitoring patients using toxic herbs, or when a suspected poisoning event occurs.
+tags: [chinese, herb, herbal, poisoning, prevention, tcm, toxic]
 ---
 
 # Toxic Chinese Herb Poisoning Prevention

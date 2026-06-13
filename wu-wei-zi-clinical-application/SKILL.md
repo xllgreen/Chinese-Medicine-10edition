@@ -1,20 +1,21 @@
----
-name: 五味子的临床应用
+﻿---
+name: Wu Wei Zi Clinical Application
 description: 本技能用于根据患者具体证型（如气虚自汗、肺虚久咳、遗精滑泄、心悸失眠等）指导五味子的配伍方案、剂量及禁忌判断。当用户提供五味子相关症状且需确定是否适用、如何配伍及用量时触发。
+tags: [application, clinical, defensive-qi, tcm, wei, wei-qi]
 ---
 
-# 五味子的临床应用
+# Wu Wei Zi Clinical Application
 
-## 使用前提
+## When to Use
 - 患者表现为气虚、阴虚、肾虚或心神不宁相关证候。
 
-## 禁忌条件
+## Precautions
 - 表邪未解者
 - 内有实热者
 - 咳嗽初起者
 - 麻疹初期者
 
-## 执行步骤
+## Execution Steps
 1. **辨证分型并配伍**：
    - **收敛固涩**：
      • 气虚自汗：配伍白术、黄芪、浮小麦、麻黄根

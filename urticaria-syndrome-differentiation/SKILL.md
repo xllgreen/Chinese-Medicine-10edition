@@ -1,17 +1,18 @@
----
-name: 瘾疹的证型辨治
+﻿---
+name: Urticaria Syndrome Differentiation
 description: 根据瘾疹（荨麻疹）的风团颜色、寒热反应及全身症状，辨识风热、风寒、湿热或气血两虚证型，并匹配相应治法与方剂。当患者出现反复发作的风团伴瘙痒时使用本技能。
+tags: [bian-zheng, differentiation, syndrome, syndrome-differentiation, tcm, urticaria, xun-ma-zhen]
 ---
 
-# 瘾疹的证型辨治
+# Urticaria Syndrome Differentiation
 
-## 适用场景
+## When to Use
 - 风团色赤、遇热加重（风热）
 - 风团色白、遇冷加重（风寒）
 - 伴脘痞、便秘（胃肠湿热）
 - 反复多年、神疲乏力（气血两虚）
 
-## 执行步骤
+## Execution Steps
 1. **判断病程**：急性（起病急）或慢性（迁延不愈）。
 2. **辨证选方**：
    - 风热犯表 → 疏风清热 → 消风散；

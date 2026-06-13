@@ -1,19 +1,20 @@
----
-name: 望舌临床综合判读原则
+﻿---
+name: Tongue Observation Clinical Interpretation
 description: 综合分析舌质与舌苔信息，结合四诊合参进行中医辨证、病势判断及预后评估。当已获取舌质与舌苔信息且需进行整体辨证或预后判断时使用此技能。
+tags: [clinical, diagnosis, interpretation, observation, tcm, tongue, tongue-diagnosis]
 ---
 
-# 望舌临床综合判读原则
+# Tongue Observation Clinical Interpretation
 
-## 适用场景
+## When to Use
 - 中医临床辨证；
 - 疾病预后评估。
 
-## 使用前提
+## When to Use
 - 已完成舌质与舌苔的独立观察；
 - 必须结合问诊、闻诊、切诊等其他三诊信息（四诊合参）。
 
-## 判读原则
+## Execution Steps
 
 ### 1. 明确舌质与舌苔分工
 - **舌质**反映脏腑虚实、气血盛衰（如舌淡白=气血亏虚，舌红润=气血旺盛）；
@@ -45,5 +46,5 @@ description: 综合分析舌质与舌苔信息，结合四诊合参进行中医�
 - 若舌质与舌苔变化不一致（如舌淡白但苔黄厚），必须结合全身症状及其他三诊信息综合分析，不可孤立依赖舌象；
 - 严格遵循“四诊合参”原则，避免片面结论。
 
-## 输出结果
+## Output
 指导临床辨证方向、治疗策略调整及预后告知。

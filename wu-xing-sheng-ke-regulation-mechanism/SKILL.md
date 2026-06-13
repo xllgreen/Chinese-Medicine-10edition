@@ -1,17 +1,18 @@
----
-name: 五行生克制化与异常调节机制
+﻿---
+name: Wu Xing Sheng Ke Regulation Mechanism
 description: 分析具有五行结构的系统（如自然系统、人体生理病理过程）在动态变化中的自我调节行为。当系统处于平衡状态时，应用生克制化维持稳态；当某一行出现“太过”或“不及”时，触发子母相及、乘侮或胜复等异常调节路径。适用于解释中医整体观下的生理稳态维持或病理传变规律。
+tags: [five-elements, heart, kidney, mechanism, regulation, shen, sheng, tcm, theory, wu-xing, xin, xing, zang-fu]
 ---
 
-# 五行生克制化与异常调节机制
+# Wu Xing Sheng Ke Regulation Mechanism
 
-## 何时使用本技能
+## When to Use
 - 系统已被明确划分为五行属性（木、火、土、金、水）
 - 系统处于动态变化中，需判断其是否维持平衡或发生失衡
 - 观察到某一元素过强（太过）或过弱（不及），需预测其对其他元素的影响
 - 需解释中医语境下疾病传变、脏腑关联或自然节律的内在逻辑
 
-## 执行步骤
+## Execution Steps
 
 ### 1. 判断系统当前状态
 - 确认五行中每一行的状态：平和、太过 或 不及

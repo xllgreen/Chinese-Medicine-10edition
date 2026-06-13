@@ -1,18 +1,19 @@
----
-name: 阴阳偏衰辨证
+﻿---
+name: Yin Yang Deficiency Pattern Differentiation
 description: 本技能用于在中医临床中辨识因阴阳偏衰所致的虚寒证或虚热证。当患者表现为长期虚弱伴寒象或热象，且无明显实邪（如实热、实寒）或外感六淫直接致病时使用此技能。
+tags: [bian-zheng, deficiency, differentiation, pattern, syndrome-differentiation, tcm, theory, yang, yin, yin-yang]
 ---
 
-# 阴阳偏衰辨证
+# Yin Yang Deficiency Pattern Differentiation
 
-## 使用时机
+## When to Use
 当满足以下条件时启用本技能：
 - 患者呈现慢性虚弱状态
 - 伴有寒象（如畏寒肢冷）或热象（如五心烦热）
 - 排除实证寒热（如阳盛则热、阴盛则寒）
 - 无外感六淫直接致病证据
 
-## 辨证步骤
+## Execution Steps
 
 ### 1. 判断是否为阳偏衰（虚寒证）
 - **核心病机**：阳气虚损，温煦、推动、兴奋功能减退
@@ -30,5 +31,5 @@ description: 本技能用于在中医临床中辨识因阴阳偏衰所致的虚�
 - 密切观察是否出现寒热错杂、寒热转化或寒热真假等复杂情况
 - 若证候复杂，应结合其他辨证方法综合判断
 
-## 输出结果
+## Output
 明确辨识为阳偏衰或阴偏衰，为后续温阳或滋阴治疗提供依据。

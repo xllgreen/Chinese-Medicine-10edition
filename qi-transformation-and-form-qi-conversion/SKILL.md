@@ -1,18 +1,19 @@
----
-name: 气化类型与形气转化机制
+﻿---
+name: Qi Transformation and Form Qi Conversion
 description: 解释自然现象、人体生命过程、物质形态变化及病理生理状态中事物生成、发展、衰亡或功能形态转变的机制。当需要分析或说明气的运动如何导致量变（化）或质变（变），以及有形与无形物质之间的相互转化时使用此技能。
+tags: [conversion, form, qi, tcm, theory, transformation]
 ---
 
-# 气化类型与形气转化机制
+# Qi Transformation and Form Qi Conversion
 
-## 何时使用
+## When to Use
 - 需解释万物生、长、化、灭的根本机制；
 - 分析人体“生长壮老已”或植物“生长化收藏”等生命节律；
 - 理解病理状态下气机紊乱如何导致疾病；
 - 阐述中医调气治疗的理论依据；
 - 区分渐进性变化（化）与突发性转变（变）。
 
-## 执行步骤
+## Execution Steps
 
 1. **确认适用条件**：
    - 存在气的运动；

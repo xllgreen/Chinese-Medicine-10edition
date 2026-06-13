@@ -1,9 +1,10 @@
----
-name: 气的四种分类及其功能
+﻿---
+name: Qi Classification and Functions
 description: 识别并应用中医理论中元气、宗气、营气、卫气四类气的生成来源、分布路径与核心生理功能，用于分析人体生命活动动力机制或病理变化。当需要从中医角度解释呼吸、血液循环、免疫防御、生长发育或汗液调节等现象时使用本技能。
+tags: [classification, functions, qi, tcm, theory]
 ---
 
-# 气的四种分类及其功能
+# Qi Classification and Functions
 
 在中医理论框架下，气是维持生命活动的基本物质和动力。根据来源、分布与功能差异，人体之气主要分为四类：元气、宗气、营气、卫气。执行以下步骤以正确应用该分类体系：
 

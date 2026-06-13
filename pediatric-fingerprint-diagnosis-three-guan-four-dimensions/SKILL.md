@@ -1,22 +1,23 @@
----
-name: 小儿指纹诊法三关定位与四维辨证
+﻿---
+name: Pediatric Fingerprint Diagnosis Three Guan Four Dimensions
 description: 本技能用于对3岁以内小儿进行指纹诊察，以替代脉诊判断表里、寒热、虚实及病情轻重。当诊察对象为3岁以下婴幼儿且无法有效实施脉诊时（如患儿不配合），应使用此技能。
+tags: [diagnosis, dimensions, fingerprint, four, guan, pediatric, pediatrics, tcm, three]
 ---
 
-# 小儿指纹诊法三关定位与四维辨证
+# Pediatric Fingerprint Diagnosis Three Guan Four Dimensions
 
-## 适用对象
+## When to Use
 - 仅适用于3岁以内小儿。
 
-## 前提条件
+## When to Use
 - 在光线充足处操作；
 - 医生需以拇指蘸清水，从患儿示指指端向掌心方向推擦数次，使络脉显露。
 
-## 禁忌与限制
+## Precautions
 - 不适用于3岁以上儿童；
 - 避免在光线不足或患儿哭闹状态下观察。
 
-## 操作流程
+## Execution Steps
 
 ### 1. 解剖定位（三关）
 - **风关**：示指第一节（靠近指尖）；
@@ -57,7 +58,7 @@ description: 本技能用于对3岁以内小儿进行指纹诊察，以替代脉
 4. 观察指纹位置、颜色与形态；
 5. 结合四维辨证法则综合判断病性、病位与病情等级。
 
-## 输出结果
+## Output
 - 表里属性（表证/里证）；
 - 寒热虚实性质；
 - 病位深浅；

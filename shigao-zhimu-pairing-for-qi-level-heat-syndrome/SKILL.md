@@ -1,18 +1,19 @@
----
-name: 石膏-知母配伍用于肺胃气分实热证
+﻿---
+name: Shigao Zhimu Pairing for Qi Level Heat Syndrome
 description: 当患者出现气分实热典型四症（高热、大汗、大渴、脉洪大）时，使用石膏与知母配伍以清泻肺胃气分实热、除烦止渴。适用于急性感染性高热、肺炎、胃火亢盛或糖尿病肺胃热盛型消渴等属气分实热证者；禁用于脾虚便溏或无实热表现者。
+tags: [bian-zheng, heat, level, pairing, qi, shigao, syndrome, syndrome-differentiation, tcm, theory, zhimu]
 ---
 
-# 石膏-知母配伍用于肺胃气分实热证
+# Shigao Zhimu Pairing for Qi Level Heat Syndrome
 
-## 触发条件
+## When to Use
 当患者同时具备以下“气分实热四症”时启用本技能：
 - 高热不退
 - 大汗出
 - 口渴喜冷饮（大渴引饮）
 - 脉洪大
 
-## 执行步骤
+## Execution Steps
 1. **确认适用对象**：仅用于高热患者、肺炎、胃火亢盛证或糖尿病消渴证中属肺胃气分实热者。
 2. **排除禁忌**：确保患者无脾胃虚寒、脾虚便溏等虚寒表现。
 3. **配伍组成**：
@@ -27,5 +28,5 @@ description: 当患者出现气分实热典型四症（高热、大汗、大渴�
    - 石膏必须先煎20–30分钟，以充分溶出有效成分
    - 知母若需滋阴降火，可改用盐炙品；清热泻火则用生品
 
-## 预期效果
+## Output
 迅速退热、缓解烦渴、改善烦躁，现代临床可用于感染性高热、糖尿病急性高血糖状态等属气分实热证者。

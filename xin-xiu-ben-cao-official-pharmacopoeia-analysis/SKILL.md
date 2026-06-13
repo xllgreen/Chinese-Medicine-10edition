@@ -1,17 +1,18 @@
----
-name: 分析《新修本草》作为世界首部官方药典的结构与贡献
+﻿---
+name: Xin Xiu Ben Cao Official Pharmacopoeia Analysis
 description: 当用户讨论古代药典起源、唐代药物学制度、中外医药交流史，或需要确认《新修本草》的官方地位、结构组成、药物分类及历史意义时，使用本技能。适用于药典研究、中医药教育和中外医药史比较场景。
+tags: [analysis, ben, cao, heart, official, pharmacopoeia, tcm, xin, xiu, zang-fu]
 ---
 
-# 分析《新修本草》作为世界首部官方药典的结构与贡献
+# Xin Xiu Ben Cao Official Pharmacopoeia Analysis
 
-## 何时使用
+## When to Use
 - 用户提及“世界最早药典”“唐代官方药典”或“《新修本草》”；
 - 需要说明其与《神农本草经》等非官方本草的区别；
 - 涉及唐代医药管理制度或中外药物交流内容；
 - 对比中外药典发展史（如与1542年《纽伦堡药典》比较）。
 
-## 执行步骤
+## Execution Steps
 1. **确认官方地位**：
    - 明确《新修本草》由唐政府组织编撰并颁行，具有法律效力；
    - 指出其为唐代医学生必修课程之一。

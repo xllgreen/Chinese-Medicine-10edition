@@ -1,11 +1,12 @@
----
-name: 四物汤方剂应用
+﻿---
+name: Si Wu Tang Formula Application
 description: 提供四物汤的标准组成、配伍原理、适用证候及使用注意事项。当患者表现为血虚证（如面色萎黄、头晕目眩、心悸失眠、月经量少或闭经等）时，可选用本技能指导四物汤的基础应用与加减化裁。
+tags: [application, fang-ji, formula, tang, tcm]
 ---
 
-# 四物汤方剂应用
+# Si Wu Tang Formula Application
 
-## 何时使用
+## When to Use
 当患者出现以下血虚证候时使用：
 - 面色萎黄
 - 头晕目眩
@@ -16,7 +17,7 @@ description: 提供四物汤的标准组成、配伍原理、适用证候及使�
 
 适用于血虚证、月经不调、产后调理及营血不足所致诸症。
 
-## 如何执行
+## Execution Steps
 1. **确认基础组成**：熟地黄、当归、白芍、川芎。
 2. **理解配伍意义**：
    - 熟地黄为君药，滋阴补血；

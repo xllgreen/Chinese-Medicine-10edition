@@ -1,16 +1,17 @@
----
-name: 五行生克乘侮病理传变机制
+﻿---
+name: Wu Xing Pathological Transmission
 description: 基于五脏五行归属，分析一脏病变向他脏传变的路径（母病及子、子病及母、相乘、相侮），用于预测疾病发展趋势并指导早期干预。当临床出现一脏病变且疑似影响其他脏腑时使用本技能。
+tags: [five-elements, heart, pathological, tcm, theory, transmission, wu-xing, xin, xing, zang-fu]
 ---
 
-# 五行生克乘侮病理传变机制
+# Wu Xing Pathological Transmission
 
-## 适用场景
+## When to Use
 - 肝病患者出现脾虚症状（如纳差、腹胀）
 - 肾精亏虚伴肝血不足（“水不涵木”）
 - 肺虚患者突发咳血（疑“木火刑金”）
 
-## 执行步骤
+## Execution Steps
 1. **确认五脏五行归属**：确保已明确肝属木、心属火、脾属土、肺属金、肾属水。
 2. **判断传变类型**：
    - **相生传变**：

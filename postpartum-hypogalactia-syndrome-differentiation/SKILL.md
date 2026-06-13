@@ -1,14 +1,15 @@
----
-name: 缺乳三型辨证论治体系
+﻿---
+name: Postpartum Hypogalactia Syndrome Differentiation
 description: 针对产后哺乳期妇女出现乳汁甚少或全无的情况，通过乳房状态、乳汁性状及全身症状进行虚实辨证，并按气血虚弱、肝郁气滞、痰浊阻滞三型实施针对性治疗。当产妇处于哺乳期、排除器质性乳腺疾病且存在明确缺乳表现时使用本技能。
+tags: [bian-zheng, differentiation, gynecology, hypogalactia, postpartum, syndrome, syndrome-differentiation, tcm]
 ---
 
-# 缺乳三型辨证论治体系
+# Postpartum Hypogalactia Syndrome Differentiation
 
-## 触发条件
+## When to Use
 当产妇在哺乳期内乳汁甚少或无乳可下，且已排除器质性乳腺疾病时，启动本辨证流程。
 
-## 辨证步骤
+## Execution Steps
 
 ### 第一步：辨别虚实
 - **虚证特征**：乳房柔软不胀，乳汁清稀，伴神倦食少、舌淡脉细弱。
@@ -34,6 +35,6 @@ description: 针对产后哺乳期妇女出现乳汁甚少或全无的情况，�
 ### 第三步：通用原则
 无论虚实，均宜佐以通乳之品（如王不留行、漏芦、通草等）。
 
-## 注意事项
+## Precautions
 - 不适用于非哺乳期女性或男性泌乳异常。
 - 方药中禁用成分（如穿山甲）必须替换为合法替代品。

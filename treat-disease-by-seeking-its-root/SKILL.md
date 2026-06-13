@@ -1,17 +1,18 @@
----
-name: 治病求本原则
+﻿---
+name: Treat Disease by Seeking Its Root
 description: 根据病证本质与外在表现的一致性或矛盾性，选择正治（逆治）或反治（从治）策略，并处理标本缓急关系。当面对复杂病证、真假寒热或需确定治疗优先级时使用本技能。
+tags: [disease, root, seeking, tcm, treat]
 ---
 
-# 治病求本原则
+# Treat Disease by Seeking Its Root
 
-## 适用场景
+## When to Use
 - 真热假寒证（四肢厥冷但内热炽盛）
 - 脾虚便秘（真虚假实）
 - 食积泄泻（真实假虚）
 - 慢性病需区分原发与继发病
 
-## 执行步骤
+## Execution Steps
 1. **辨明标本**：
    - 正气为本，邪气为标；
    - 病因为本，症状为标；

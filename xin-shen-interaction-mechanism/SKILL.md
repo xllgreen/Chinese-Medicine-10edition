@@ -1,17 +1,18 @@
----
-name: 心肾相交机制分析
+﻿---
+name: Xin Shen Interaction Mechanism
 description: 分析心与肾之间阴阳水火升降互济的生理关系，并识别“心肾不交”病理状态。当患者同时出现心烦失眠、心悸健忘（心系症状）与头晕耳鸣、腰膝酸软、遗精梦交（肾系症状）时使用本技能进行辨证。
+tags: [heart, interaction, kidney, mechanism, shen, tcm, xin, zang-fu]
 ---
 
-# 心肾相交机制分析
+# Xin Shen Interaction Mechanism
 
-## 适用场景
+## When to Use
 - 辨识心肾不交证候
 - 解释失眠伴腰膝酸软的病机
 - 指导交通心肾、滋阴降火的治疗方向
 - 区分单纯心火亢盛或肾精亏虚与心肾两脏失调
 
-## 执行步骤
+## Execution Steps
 
 1. **确认生理基础**：
    - 心属火，居上焦，为阳；肾属水，居下焦，为阴

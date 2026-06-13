@@ -1,17 +1,18 @@
----
-name: 气与血的相互关系
+﻿---
+name: Qi Blood Interrelationship
 description: 运用“气为血之帅，血为气之母”原理，分析气血运行异常（如血虚、出血、血瘀）的病机并指导方剂配伍。当患者出现气虚、血虚、出血或血瘀症状时使用本技能。
+tags: [blood, interrelationship, qi, tcm, theory, xue]
 ---
 
-# 气与血的相互关系
+# Qi Blood Interrelationship
 
-## 适用场景
+## When to Use
 - 血虚患者伴乏力、气短
 - 大出血后出现冷汗、脉微欲绝
 - 血瘀证需配合理气药
 - 出血证需健脾补气摄血
 
-## 执行步骤
+## Execution Steps
 1. **应用“气为血之帅”**：
    - **气能生血**：血虚者配补气药（如黄芪+当归）；
    - **气能行血**：血瘀者调理气机（气滞则理气，气虚则补气）；

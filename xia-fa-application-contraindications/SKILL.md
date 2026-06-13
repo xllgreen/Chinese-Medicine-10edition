@@ -1,16 +1,17 @@
----
-name: 下法应用禁忌与注意事项
+﻿---
+name: Xia Fa Application Contraindications
 description: 当临床医师计划对里实证患者使用下法（尤其是峻下逐水剂）时，必须评估患者体质、病位层次及特殊生理状态，并严格遵循禁忌。本技能提供下法的适用前提、绝对禁忌、慎用情形及执行原则，防止误治导致正气损伤或引邪深入。
+tags: [application, contraindications, tcm, xia]
 ---
 
-# 下法应用禁忌与注意事项
+# Xia Fa Application Contraindications
 
-## 何时使用本技能
+## When to Use
 - 计划对确诊为里实证的患者使用下法（如大承气汤、十枣汤等）；
 - 需排除表证、半表半里证或其他禁忌情况；
 - 患者存在高龄、产后、妊娠、经期或素体虚弱等特殊状态。
 
-## 执行步骤
+## Execution Steps
 1. **确认前提条件**：
    - 已明确诊断为里实证；
    - 表证与半表半里证已排除。

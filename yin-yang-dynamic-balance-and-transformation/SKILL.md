@@ -1,16 +1,17 @@
----
-name: 阴阳的消长平衡与转化规律
+﻿---
+name: Yin Yang Dynamic Balance and Transformation
 description: 判断自然界或人体系统中阴阳关系处于量变（消长）还是质变（转化）阶段，并据此制定调和或促导策略。当观察到四季气候变化异常、人体代谢失衡或疾病进展出现极热转寒、极寒转热等临界征象时使用本技能。
+tags: [balance, dynamic, tcm, theory, transformation, yang, yin, yin-yang]
 ---
 
-# 阴阳的消长平衡与转化规律
+# Yin Yang Dynamic Balance and Transformation
 
-## 何时使用
+## When to Use
 - 观察到气候、生理或病理过程呈现持续单向变化（如持续高热、长期虚损）；
 - 出现“重”或“极”的临界状态（如高热后突然四肢厥冷）；
 - 需判断当前是维持动态平衡（阴平阳秘）还是已进入阴阳失调或转化阶段。
 
-## 执行步骤
+## Execution Steps
 
 ### 1. 识别阴阳消长类型（量变阶段）
 - **此消彼长**：

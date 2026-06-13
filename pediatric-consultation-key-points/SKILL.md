@@ -1,6 +1,7 @@
 ---
 name: Pediatric Consultation Key Points
 description: 针对14岁以下儿科患者（尤其是婴幼儿）进行系统化中医问诊的标准化流程。当用户需要为无法自主清晰表达症状的儿童采集完整四诊资料、判断其是否属于“易感外邪”“易伤饮食”或“易受惊吓”证型时使用本技能。适用于有监护人陪同提供病史的场景，不适用于能自主清晰表达的青少年。
+tags: [consultation, key, pediatric, pediatrics, points, tcm]
 ---
 
 # 小儿问诊要点

@@ -1,11 +1,12 @@
----
-name: 骨质疏松症的中医病因病机分析
+﻿---
+name: Osteoporosis TCM Etiology and Pathogenesis
 description: 分析骨质疏松症在中医理论下的核心病机、四大病因及脏腑关联，用于指导辨证分型与治疗方向。当患者表现为骨脆易折、腰背酸痛、舌淡脉弱等肾虚证候时使用本技能。
+tags: [etiology, gu-zhi, osteoporosis, pathogenesis, tcm]
 ---
 
-# 骨质疏松症的中医病因病机分析
+# Osteoporosis TCM Etiology and Pathogenesis
 
-## 何时使用
+## When to Use
 当接诊对象为骨质疏松症患者，且出现以下表现时应用本技能：
 - 腰膝酸软、驼背、易发生骨折
 - 舌象淡、脉象虚弱
@@ -13,7 +14,7 @@ description: 分析骨质疏松症在中医理论下的核心病机、四大病�
 
 **注意**：本技能不适用于非骨代谢性疾病或急性外伤性骨折。
 
-## 执行步骤
+## Execution Steps
 
 1. **确认核心病机**：
    - 肾为先天之本，主骨生髓；
@@ -38,5 +39,5 @@ description: 分析骨质疏松症在中医理论下的核心病机、四大病�
    - 以补肾法为核心；
    - 根据兼证兼顾肝肾同调、脾肾同治。
 
-## 输出结果
+## Output
 提供骨质疏松症的中医病机分析结论，用于后续辨证分型（如肾阳虚、肾阴虚、脾肾两虚、瘀血阻络等）及治疗方案制定。

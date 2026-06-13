@@ -1,22 +1,23 @@
----
-name: 小蓟饮子治疗血淋尿血的应用
+﻿---
+name: Xiao Ji Yin Zi Application for Blood Lin and Hematuria
 description: 本技能用于识别并应用小蓟饮子治疗下焦瘀热所致的血淋、尿血证候。当患者表现为尿中带血、小便频数赤涩热痛、舌红脉数等热结下焦症状时，应使用此方剂以实现凉血止血与利水通淋的协同作用。
+tags: [application, blood, hematuria, lin, tcm, xiao, xue, yin]
 ---
 
-# 小蓟饮子治疗血淋尿血的应用
+# Xiao Ji Yin Zi Application for Blood Lin and Hematuria
 
-## 适用场景
+## When to Use
 当患者出现以下表现时启用本技能：
 - 尿中带血（血淋或尿血）
 - 小便频数、赤涩、热痛
 - 舌红、脉数
 - 病机为下焦瘀热、灼伤血络
 
-## 禁忌情形
+## Precautions
 - 非热结下焦所致出血（如脾不统血）
 - 虚寒性尿血
 
-## 执行步骤
+## Execution Steps
 1. **确认方剂组成**：生地黄、小蓟根、通草、滑石、山栀仁、蒲黄（炒）、淡竹叶、当归、藕节、甘草各等分。
 2. **确定用法用量**：咀嚼后每服半两，水煎，空腹服用。
 3. **分析配伍结构**：

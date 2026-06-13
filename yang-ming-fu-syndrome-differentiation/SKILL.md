@@ -1,9 +1,10 @@
----
-name: 阳明腑证辨证要点
+﻿---
+name: Yang Ming Fu Syndrome Differentiation
 description: 本技能用于对温病或外感热病进入阳明阶段的患者进行阳明腑证实证的辨证判断。当患者出现日晡潮热、大便秘结、腹满硬痛拒按、舌苔黄燥或焦黄起芒刺、脉沉实有力等症状时，应使用本技能确认是否为阳明腑证，并排除表证未解或虚寒性便秘等禁忌情况。
+tags: [bian-zheng, differentiation, ming, syndrome, syndrome-differentiation, tcm, yang]
 ---
 
-# 阳明腑证辨证要点
+# Yang Ming Fu Syndrome Differentiation
 
 执行以下步骤以辨识阳明腑证实证：
 
